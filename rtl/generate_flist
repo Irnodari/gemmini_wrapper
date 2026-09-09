@@ -1,3 +1,0 @@
-#!/bin/bash
-find . -name "*v" > gemmini.f
-find . -name "*vh" >> gemmini.f
